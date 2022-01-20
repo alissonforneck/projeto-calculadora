@@ -3,14 +3,3 @@ main{
     width: 1000px;
     background-color: red;
 }
-div{
-    width: 30%;
-    height: 200px;
-    display: inline;
-    background-color: blue;
-    margin: 20px;
-}
-div.num1{
-    width: 200px;
-    height: 200px;
-}
